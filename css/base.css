@@ -1,0 +1,11 @@
+body,ul,li,p,h1,h2,h3,h4,h5,h6{
+     margin:0;padding:0;list-style:none;
+     font-family:"sans-serif";font:14px/1.5;font-weight:normal;
+     font-size: 12px;
+}
+a{
+   color:#333;text-decoration:none;
+}
+img{
+    border:none;
+}
